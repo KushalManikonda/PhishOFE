@@ -88,18 +88,6 @@ PhishOFE was evaluated against **realistic and adversarial URLs**, including:
 
 ---
 
-## 🏗 System Architecture
-
-1. URL Input (Single / Batch)  
-2. Feature Extraction (URL + HTML + Derived)  
-3. Preprocessing & Scaling  
-4. PCA Transformation (8 Components)  
-5. Model Inference (CatBoost)  
-6. Prediction with Probability Scores  
-7. Evaluation & Visualization  
-
----
-
 ## 🔧 Tech Stack
 
 | Layer             | Technology Used |
@@ -110,6 +98,18 @@ PhishOFE was evaluated against **realistic and adversarial URLs**, including:
 | Web Parsing      | Requests, BeautifulSoup |
 | Visualization    | Matplotlib, Seaborn |
 | Environment      | Jupyter Notebook |
+
+---
+
+## 🏗 System Architecture
+
+1. URL Input (Single / Batch)  
+2. Feature Extraction (URL + HTML + Derived)  
+3. Preprocessing & Scaling  
+4. PCA Transformation (8 Components)  
+5. Model Inference (CatBoost)  
+6. Prediction with Probability Scores  
+7. Evaluation & Visualization  
 
 ---
 
