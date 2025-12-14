@@ -142,6 +142,8 @@ Legitimate Probability : 0.01
 
 ## 📄 Full Project Report → `PhishOFE_Final_Report.docx`
 
+👉 [Click here to view the report]([https://github.com/KushalManikonda/PhishOFE](https://github.com/KushalManikonda/PhishOFE/blob/main/PhishOFE_Final_Report.docx))
+
 ---
 
 ## 💻 GitHub Repository → `PhishOFE`
