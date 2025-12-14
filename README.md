@@ -1,4 +1,4 @@
-# 🛡️ PhishOFE: Phishing URL Detection & Evaluation Framework
+# PhishOFE: Phishing URL Detection & Evaluation Framework
 
 PhishOFE is a machine learning–based cybersecurity system designed to **detect phishing URLs in real time** by analyzing URL structure, HTML content, and derived behavioral features.  
 The system integrates **Principal Component Analysis (PCA)** for dimensionality reduction and a **CatBoost classifier** for robust, high-accuracy detection across real-world and adversarial scenarios.
@@ -140,7 +140,7 @@ Legitimate Probability : 0.01
 
 ---
 
-## 📄 Full Project Report → `PhishOFE.docx`
+## 📄 Full Project Report → `PhishOFE_Final_Report.docx`
 
 ---
 
