@@ -1,0 +1,12 @@
+PhishOFE/
+│
+├── phishOFE.ipynb              # Main notebook (training + testing pipeline)
+│
+├── PhishOFE_Final_Report.docx           # Complete project report
+│
+├── artifacts/                  # Saved scalers, PCA, metadata (ignored)
+├── models/                     # Trained ML models (ignored)
+├── logs/                       # Execution & testing logs (ignored)
+├── catboost_info/              # CatBoost training info (ignored)
+│
+└── .ipynb_checkpoints/         # Jupyter checkpoints (ignored)
